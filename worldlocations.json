@@ -20477,6 +20477,484 @@
         "date": "January 8, 2020"
     } 
 
-}
+},
+{
+                "id": 1024,
+                "name": "Fairhead , Co. Antrim",
+                "coordinates": [55.2232476, -6.1576193],
+                "country": "Ireland",
+                "details": {
+                    "total": "",
+                    "notes": "",
+                    "access": "Fairhead Cliff car park",
+                    "anchor": "",
+                    "cliffAspect": "N",
+                    "rockdrop": "300"
+                },
+                "openedBy": {
+                    "name": "Conor H",
+                    "date": "2001"
+                }
+            },
+            {
+                "id": 1025,
+                "name": "Neadan Iolar,Co.Donegal Sliabh Liag",
+                "coordinates": [54.6338480, -8.6757261],
+                "country": "Ireland",
+                "details": {
+                    "total": "1000",
+                    "notes": "Only accessible at low tide. To get out, hike up the steep grassy slope",
+                    "access": "Bunglass Viewpoint. Follow the tourist path up to the exit",
+                    "anchor": "Bring a 4ft stake soft sandy soil.",
+                    "cliffAspect": "W",
+                    "rockdrop": "200"
+                },
+                "openedBy": {
+                    "name": "Greg Mc and Iain Miller",
+                    "date": "09/09/2020"
+                }
+            },
+            {
+                "id": 1026,
+                "name": "Cliffs of Moher, Co. Clare",
+                "coordinates": [53.0079284, -9.3921049],
+                "country": "Ireland",
+                "details": {
+                    "total": "",
+                    "notes": "park at the Lane to the north of the exit point. Land at Small shingle area at the base of the cliff. Most of the remaining area is big rocks. To  get out, hike up the grassy slope, following the sheep path",
+                    "access": "Follow the tourist path up to the exit",
+                    "anchor": "",
+                    "cliffAspect": "W",
+                    "rockdrop": "600"
+                },
+                "openedBy": {
+                    "name": "Niall & Padraig B",
+                    "date": "2007"
+                }
+            },
+            {
+                "id": 1027,
+                "name": "Coomarkane,Co.Cork",
+                "coordinates": [51.7433263, -9.6239108],
+                "country": "Ireland",
+                "details": {
+                    "total": "350",
+                    "notes": "Exact exit point unknown.",
+                    "access": "Coomarkane Visitor Centre. Follow the path up past the old hill village and continue up towards cliff edge",
+                    "anchor": "Bring a stake",
+                    "cliffAspect": "S",
+                    "rockdrop": "150"
+                },
+                "openedBy": {
+                    "name": "Malcolm Rowley",
+                    "date": "2016"
+                }
+            },
+            {
+                "id": 1028,
+                "name": "Mahon Falls, Co. Waterford",
+                "coordinates": [52.2313814, -7.5515955],
+                "country": "Ireland",
+                "details": {
+                    "total": "",
+                    "notes": "re-lasered at ~200ft in 2021 and freefalled by Greg Mc.",
+                    "access": "Mahon Falls car park, Hike up the hill beside the car park and follow the ridge towards the waterfall. The exit is a few metres down off the path on a ledge.",
+                    "anchor": "big rock, approx. 12 m back from the exit. Bring a rope or a PCA pal, or handheld",
+                    "cliffAspect": "W",
+                    "rockdrop": "190"
+                },
+                "openedBy": {
+                    "name": "Greg Mc",
+                    "date": "29/11/2020"
+                }
+            },
+            {
+                "id": 1029,
+                "name": "Ballydowane Cove, Waterford",
+                "coordinates": [52.1320614, -7.4031953],
+                "country": "Ireland",
+                "details": {
+                    "total": "120",
+                    "notes": "Loose crumbling rock edge, be aware of sunbathers below. Landing area much bigger at low tide",
+                    "access": "Ballydowane beach car park, From the car park, walk back up the road, turn right and then go through the 2nd field on the right towards the cliff edge",
+                    "anchor": "Concrete fence post approx. 12m back from edge",
+                    "cliffAspect": "S",
+                    "rockdrop": "120"
+                },
+                "openedBy": {
+                    "name": "Greg Mc",
+                    "date": "25/07/2021"
+                }
+            },
+            {
+                "id": 1030,
+                "name": "Dun Aengus, Co. Galway Inishmore.",
+                "coordinates": [53.1256823, -9.7682646],
+                "country": "Ireland",
+                "details": {
+                    "total": "",
+                    "notes": "",
+                    "access": "No cars on the island. Take a ferry and then bike / hike, follow tourist signs to Dun Aengus. Exit is to the west of the fort.",
+                    "anchor": "",
+                    "cliffAspect": "SSW",
+                    "rockdrop": "300"
+                },
+                "openedBy": {
+                    "name": "Cedric Dumont",
+                    "date": "2006"
+                }
+            },
+            {
+                "id": 1031,
+                "name": "Eagles Rock, Co.Leitrim",
+                "coordinates": [54.379357, -8.338200],
+                "country": "Ireland",
+                "details": {
+                    "total": "1000",
+                    "notes": "the exit is not on Eagles rock, it faces it.",
+                    "access": "from the car park, hike up the farm track to the South West. Follow the steep sheep path up the hill and traverse South East across towards eagles rock. The exit is down a steep slope and faces eagles rock",
+                    "anchor": "Bring a 4ft stake and ~10 m of rope.",
+                    "cliffAspect": "E",
+                    "rockdrop": "240"
+                },
+                "openedBy": {
+                    "name": "Niall & Damien",
+                    "date": "2009"
+                }
+            },
+            {
+                "id": 1032,
+                "name": "Glencar, Co. Leitrim",
+                "coordinates": [54.346216, -8.384238],
+                "country": "Ireland",
+                "details": {
+                    "total": "600",
+                    "notes": "",
+                    "access": "follow the windy road up to the top. Climb over the turnstile and follow the cliff edge up and to the West. 3 metal stakes in the ground mark the exit area.",
+                    "anchor": "metal stakes / freefall",
+                    "cliffAspect": "S",
+                    "rockdrop": "250"
+                },
+                "openedBy": {
+                    "name": "Niall & Damien",
+                    "date": "2009"
+                }
+            },
+            {
+                "id": 1033,
+                "name": "Glencar, Co. Leitrim Lower corner running exit",
+                "coordinates": [54.346341, -8.384851],
+                "country": "Ireland",
+                "details": {
+                    "total": "550",
+                    "notes": "",
+                    "access": "Park Beside Glencar Lough follow the windy road up to the top. Climb over the turnstile and follow the cliff edge up and to the West. The running exit faces towards the classic exit",
+                    "anchor": "Running exit and freefall",
+                    "cliffAspect": "SW",
+                    "rockdrop": "180"
+                },
+                "openedBy": {
+                    "name": "Kieren H",
+                    "date": "March 2021"
+                }
+            },
+            {
+                "id": 1034,
+                "name": "Glencar, Co. Leitrim Rock pillar exit",
+                "coordinates": [54.346430, -8.385250],
+                "country": "Ireland",
+                "details": {
+                    "total": "550",
+                    "notes": "",
+                    "access": "follow the windy road up to the top. Climb over the turnstile and follow the cliff edge up and to the West. Continue around past the classic exit and the rock pillar is on the corner, a few meters down to the left.",
+                    "anchor": "freefall",
+                    "cliffAspect": "SW",
+                    "rockdrop": "250"
+                },
+                "openedBy": {
+                    "name": "Greg Mc, KierenH",
+                    "date": "Aug 2021"
+                }
+            },
+            {
+                "id": 1035,
+                "name": "Arroo, Co. Leitrim",
+                "coordinates": [54.417700, -8.252930],
+                "country": "Ireland",
+                "details": {
+                    "total": "600",
+                    "notes": "",
+                    "access": "get dropped off on the mountain road east of the cliff. Hike up to the West towards the summit. The cliff is pretty obvious on the right.",
+                    "anchor": "n/a",
+                    "cliffAspect": "N",
+                    "rockdrop": "300"
+                },
+                "openedBy": {
+                    "name": "Niall & Damien",
+                    "date": "2010"
+                }
+            },
+            {
+                "id": 1036,
+                "name": "Benbulben , Co. Sligo",
+                "coordinates": [54.367374, -8.475346],
+                "country": "Ireland",
+                "details": {
+                    "total": "900",
+                    "notes": "Parking at Lukes Bridge",
+                    "access": "from the car park, Hike up through the bog and up the gulley. Hike along the top of Benbulben towards the summit and continue to the edge. The exit is on the 3rd finger",
+                    "anchor": "Big rock",
+                    "cliffAspect": "NNW",
+                    "rockdrop": "150"
+                },
+                "openedBy": {
+                    "name": "Niall & Damien",
+                    "date": "2009"
+                }
+            },
+            {
+                "id": 1037,
+                "name": "Benwisken , Co. Sligo",
+                "coordinates": [54.391498, -8.423664],
+                "country": "Ireland",
+                "details": {
+                    "total": "1300",
+                    "notes": "",
+                    "access": "from the car park, hike up the road to the east. Continue up through the bog. Continue up along the fence line towards the summit. The exit is at the N.E end of the ridge.",
+                    "anchor": "Bringyourownstake,orFreefall",
+                    "cliffAspect": "NNW",
+                    "rockdrop": "300"
+                },
+                "openedBy": {
+                    "name": "Greg Mc & Dave W",
+                    "date": "08/08/2020"
+                }
+            },
+            {
+                "id": 1038,
+                "name": "Benwisken , Co. Sligo Lower, South West exit",
+                "coordinates": [54.386163, -8.431488],
+                "country": "Ireland",
+                "details": {
+                    "total": "1000",
+                    "notes": "Park at the Forestry car park east of benwisken",
+                    "access": "Approach through forest road to trail head and hike up east face to ridge. Hike south 20 minutes, exit is to the west. (Can view exit from cliff to south). Exit is a rock outcrop. Take caution with footing as gaps.",
+                    "anchor": "Bring your own stake, or Freefall",
+                    "cliffAspect": "SW",
+                    "rockdrop": "180"
+                },
+                "openedBy": {
+                    "name": "Kieren H",
+                    "date": "Aug 2021"
+                }
+            },
+            {
+                "id": 1039,
+                "name": "Croghaun Cliffs, Co. Mayo Achill Island.",
+                "coordinates": [53.989737, -10.185857],
+                "country": "Ireland",
+                "details": {
+                    "total": "2200",
+                    "notes": "Sea Landing, boat pick up required, This is the first known BASE jump in Ireland. The wind on Achill Island is regularly howling. Andy’s 1982 jump is the only known jump from this cliff",
+                    "access": "Get dropped off at the end of the track near the deserted village at Slievemore .",
+                    "anchor": "",
+                    "cliffAspect": "N",
+                    "rockdrop": "400"
+                },
+                "openedBy": {
+                    "name": "Andy Callender",
+                    "date": "1982"
+                }
+            },
+            {
+            "id": 1040,
+            "name": "Bachelor Pad",
+            "coordinates": [38.510573, -109.603167],
+            "country": "United States",
+            "state": "Utah",
+            "details": {
+                "total": "",
+                "notes": "",
+                "access": "Park at the Hunter Canyon/Spring Canyon parking. You can shuttle and leave a car at the Ice Cream Parlor parking but the walk back from the LZ is barely 10min.",
+                "anchor": "",
+                "cliffAspect": "",
+                "rockdrop": ""
+            },
+            "openedBy": {
+                "name": "",
+                "date": ""
+            }
+        },
+        {
+            "id": 1041,
+            "name": "Echo",
+            "coordinates": [38.511320, -109.601740],
+            "country": "United States",
+            "state": "Utah",
+            "details": {
+                "total": "",
+                "notes": "",
+                "access": "Park at the Hunter Canyon/Spring Canyon parking. You can shuttle and leave a car at the Ice Cream Parlor parking but the walk back from the LZ is barely 10min.",
+                "anchor": "",
+                "cliffAspect": "",
+                "rockdrop": "329"
+            },
+            "openedBy": {
+                "name": "",
+                "date": ""
+            }
+        },
+        {
+            "id": 1042,
+            "name": "SATAN’S ASS CRACK",
+            "coordinates": [38.505863, -109.598708],
+            "country": "United States",
+            "state": "Utah",
+            "details": {
+                "total": "",
+                "notes": "Please do not land on the road unless you have an emergency. Try to land in a pullout or in the dirst on the side of the road. There is fixed ropes on the way up, hand over hand. No gear required.",
+                "access": "Park at the Hunter Canyon/Spring Canyon parking. You can shuttle and leave a car at the Ice Cream Parlor parking but the walk back from the LZ is barely 10min.",
+                "anchor": "",
+                "cliffAspect": "",
+                "rockdrop": ""
+            },
+            "openedBy": {
+                "name": "Jimmy Peterson",
+                "date": "2015 "
+            }
+        },
+        {
+            "id": 1043,
+            "name": "SMOKING JOE’S",
+            "coordinates": [38.507508, -109.598622],
+            "country": "United States",
+            "state": "Utah",
+            "details": {
+                "total": "",
+                "notes": "Please do not land on the road unless you have an emergency. Try to land in a pullout or in the dirt on the side of the road. There is fixed ropes on the way up, hand over hand. No gear required.",
+                "access": "Park at the Hunter Canyon/Spring Canyon parking. You can shuttle and leave a car at the Ice Cream Parlor parking but the walk back from the LZ is barely 10min",
+                "anchor": "",
+                "cliffAspect": "",
+                "rockdrop": ""
+            },
+            "openedBy": {
+                "name": "Jimmy and Marta",
+                "date": ""
+            }
+        },
+        {
+            "id": 1044,
+            "name": "DOGGIE STYLE",
+            "coordinates": [38.659308, -109.497385],
+            "country": "United States",
+            "state": "Utah",
+            "details": {
+                "total": "",
+                "notes": "Please do not land on the road unless you have an emergency. Land in the clearing.",
+                "access": "Park the Take Out Beach parking.",
+                "anchor": "",
+                "cliffAspect": "",
+                "rockdrop": ""
+            },
+            "openedBy": {
+                "name": "",
+                "date": ""
+            }
+        },
+        {
+            "id": 1045,
+            "name": "G-SPOT",
+            "coordinates": [38.600349, -109.562964],
+            "country": "United States",
+            "state": "Utah",
+            "details": {
+                "total": "",
+                "notes": "",
+                "access": "Park at the Colorado riverside Recreation are parking.",
+                "anchor": "",
+                "cliffAspect": "",
+                "rockdrop": ""
+            },
+            "openedBy": {
+                "name": "Mario Richard",
+                "date": ""
+            }
+        },
+        {
+            "id": 1046,
+            "name": "JIMS",
+            "coordinates": [38.624778, -109.506753],
+            "country": "United States",
+            "state": "Utah",
+            "details": {
+                "total": "",
+                "notes": "JIMS stands for Jimmy Is a Massive Skank as Nolan was upset he couldn’t jump it yet as he was just starting his jumping journey.",
+                "access": "Leave a car at the pullout at the start of the hike and hitchhike back to it or shuttle.",
+                "anchor": "",
+                "cliffAspect": "",
+                "rockdrop": ""
+            },
+            "openedBy": {
+                "name": "Jimmy Peterson and Nolan Smythe",
+                "date": "2014"
+            }
+        },
+        {
+            "id": 1047,
+            "name": "ROOSTER VISION",
+            "coordinates": [38.604777, -109.527312],
+            "country": "United States",
+            "state": "Utah",
+            "details": {
+                "total": "",
+                "notes": "There is ropes on the way up, hand over hand. No gear required.",
+                "access": "Park at the Grandstaff trail parking.",
+                "anchor": "",
+                "cliffAspect": "",
+                "rockdrop": ""
+            },
+            "openedBy": {
+                "name": "Mario Richard",
+                "date": ""
+            }
+        },
+        {
+            "id": 1048,
+            "name": "TRIPOD",
+            "coordinates": [38.651131, -109.495024],
+            "country": "United States",
+            "state": "Utah",
+            "details": {
+                "total": "",
+                "notes": "",
+                "access": "Park at the Little Canyon pullout.",
+                "anchor": "",
+                "cliffAspect": "",
+                "rockdrop": "330"
+            },
+            "openedBy": {
+                "name": "",
+                "date": ""
+            }
+        },
+        {
+            "id": 1049,
+            "name": "MARY’S GASH",
+            "coordinates": [38.516263, -109.999776],
+            "country": "United States",
+            "state": "Utah",
+            "details": {
+                "total": "",
+                "notes": "Lots of good places to land. As per usual, please avoid the road.",
+                "access": "",
+                "anchor": "",
+                "cliffAspect": "",
+                "rockdrop": ""
+            },
+            "openedBy": {
+                "name": "",
+                "date": ""
+            }
+        }
     ]
   }

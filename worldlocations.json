@@ -21270,6 +21270,66 @@
                 "name": "",
                 "date": ""
             }
+        },
+        {
+            "id": 1065,
+            "name": "Tree jump - Dunkeld",
+            "coordinates": [56.565161, -3.592274],
+            "country": "united Kingdom",
+            "details": {
+                "total": "",
+                "notes": "",
+                "access": "",
+                "anchor": "",
+                "cliffAspect": "",
+                "rockdrop": ""
+            },
+            "openedBy": {
+                "name": "",
+                "date": ""
+            }
+        },
+        {
+            "id": 1066,
+            "name": "Kinnoul hill",
+            "coordinates": [56.388935, -3.395703],
+            "country": "united Kingdom",
+            "details": {
+                "total": "",
+                "notes": "",
+                "access": "",
+                "anchor": "",
+                "cliffAspect": "",
+                "rockdrop": ""
+            },
+            "openedBy": {
+                "name": "",
+                "date": ""
+            }
+        },
+        {
+            "id": 1067,
+            "name": "Dundonell",
+            "coordinates": [57.8002458, -5.1502725],
+            "country": "united Kingdom",
+            "details": {
+                "total": "450",
+                "notes": "Exit point is springy underfoot due to shrubs. Good push needed. Rock drop is onto trees. Suggested LZ is on flatter ground parallel to A road.",
+                "access": "Park below exit or at viewpoint to S along A832 and walk up to Loch Allt Eigin. Exit is not on top of the cliff. Get on to ledge via slope 100m N of exit and scramble along. Climb over rock. Exit is to left of small tree when facing W.",
+                "anchor": "Clumps of heather or bracken",
+                "cliffAspect": "WNW",
+                "rockdrop": "120"
+            },
+            "openedBy": {
+                "name": "Josh Bregmen and Greg",
+                "date": "1 Jun 2023"
+            },
+            "media": {
+                "images": [
+                    "https://firebasestorage.googleapis.com/v0/b/uk-base-map.appspot.com/o/submissions%2FScreenshot_20230712_063340_WhatsApp.jpg?alt=media&token=2c9476eb-83ee-4a4c-abfd-2f64902958d0",
+                    "https://firebasestorage.googleapis.com/v0/b/uk-base-map.appspot.com/o/submissions%2FScreenshot_20230712_063237_WhatsApp.jpg?alt=media&token=3aa4b164-2459-427f-b9fc-4fe8855facbe"
+                ]
+            }
         }
     ]
   }

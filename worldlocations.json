@@ -21207,6 +21207,33 @@
             "name": "Yuri",
             "date": ""
         }
-    }
+    },
+        {
+  "id": 1064,
+  "name": "Just The Tip (JTT)",
+  "coordinates": [21.546420, -157.854590],
+  "country": "Hawaii",
+  "details": {
+      "total": "3608",
+      "notes": "primary LZ is school, Alternates are beach and wood clearing",
+      "access": "",
+      "anchor": "rope/550",
+      "cliffAspect": "",
+      "rockdrop": "295"
+  },
+  "openedBy": {
+      "name": "Ryan Collier",
+      "date": "May 30, 2022"
+  },
+  "media": {
+      "videoLink": "https://www.instagram.com/reel/Ckjl57iNJyS/?igshid=ODhhZWM5NmIwOQ==",
+      "images": [
+          "https://firebasestorage.googleapis.com/v0/b/uk-base-map.appspot.com/o/submissions%2F1700339364376.jpg?alt=media&token=70ef29eb-13c2-47b2-b160-304a2f920a88",
+          "https://firebasestorage.googleapis.com/v0/b/uk-base-map.appspot.com/o/submissions%2F1700339402730.jpg?alt=media&token=ca0d278e-9d40-4139-a396-0e6ba73f6e57",
+          "https://firebasestorage.googleapis.com/v0/b/uk-base-map.appspot.com/o/submissions%2F1700339441812.jpg?alt=media&token=e20028ff-01ce-4c9e-b2b8-1836915362b7",
+          "https://firebasestorage.googleapis.com/v0/b/uk-base-map.appspot.com/o/submissions%2F1700339467044.jpg?alt=media&token=49e5d7ea-55d4-4869-85a0-dbf267ba618b"
+      ]
+  }
+}
     ]
   }

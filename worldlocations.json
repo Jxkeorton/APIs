@@ -20955,6 +20955,258 @@
                 "name": "",
                 "date": ""
             }
+        },
+        {
+        "id": 1050,
+        "name": "classic exit / the ramp",
+        "coordinates": [25.9323605, 56.1214925],
+        "country": "Dubai",
+        "details": {
+            "total": "4199",
+            "notes": "1 hour drive from LZ, 2 minutes hike to exit.",
+            "access": "Need to call in to security the day before with jumpers' names. Need to carry ID for security to check. Rock drop: a real drop (like if you slip and fall) 2.5 seconds. Gentle throw (like a lazy push) 6 seconds. Good throw (like a big push) 8 seconds.",
+            "anchor": "",
+            "cliffAspect": "",
+            "rockdrop": ""
+        },
+        "openedBy": {
+            "name": "",
+            "date": ""
         }
+    },
+    {
+        "id": 1051,
+        "name": "Froth Bucket",
+        "coordinates": [25.9524279, 56.1659221],
+        "country": "Dubai",
+        "details": {
+            "total": "4823",
+            "notes": "1:15 hour drive, 45 minutes hike. We drive through a security gate, to go through the gate, you need to call in the day before with car reg and driver name. You can hike from this security gate, it adds 45 minutes hike.",
+            "access": "",
+            "anchor": "",
+            "cliffAspect": "",
+            "rockdrop": ""
+        },
+        "openedBy": {
+            "name": "",
+            "date": ""
+        }
+    },
+    {
+        "id": 1052,
+        "name": "Arnold",
+        "coordinates": [25.9458081, 56.1567212],
+        "country": "Dubai",
+        "details": {
+            "total": "4757",
+            "notes": "1:15 hour drive, one-minute hike. We drive through a security gate, to go through the gate, you need to call in the day before with car reg and driver name. You can hike from this security gate, it adds 45 minutes hike. Long distance to LZ, recommend big wingsuits only.",
+            "access": "",
+            "anchor": "",
+            "cliffAspect": "",
+            "rockdrop": ""
+        },
+        "openedBy": {
+            "name": "",
+            "date": ""
+        }
+    },
+    {
+        "id": 1053,
+        "name": "Somewhere There",
+        "coordinates": [25.9490951, 56.1596541],
+        "country": "Dubai",
+        "details": {
+            "total": "",
+            "notes": "1:15 hour drive, 15-minute hike. We drive through a security gate, to go through the gate, you need to call in the day before with car reg and driver name. You can hike from this security gate, it adds 45 minutes hike.",
+            "access": "",
+            "anchor": "",
+            "cliffAspect": "",
+            "rockdrop": ""
+        },
+        "openedBy": {
+            "name": "",
+            "date": ""
+        }
+    },
+    {
+        "id": 1054,
+        "name": "Hungry Goat",
+        "coordinates": [25.9685019, 56.1793509],
+        "country": "Dubai",
+        "details": {
+            "total": "",
+            "notes": "4-hour hike",
+            "access": "",
+            "anchor": "",
+            "cliffAspect": "",
+            "rockdrop": ""
+        },
+        "openedBy": {
+            "name": "",
+            "date": ""
+        }
+    },
+    {
+        "id": 1055,
+        "name": "Dahab",
+        "coordinates": [25.981051, 56.1891239],
+        "country": "Dubai",
+        "details": {
+            "total": "",
+            "notes": "4-hour hike",
+            "access": "",
+            "anchor": "",
+            "cliffAspect": "",
+            "rockdrop": ""
+        },
+        "openedBy": {
+            "name": "",
+            "date": ""
+        }
+    },
+    {
+        "id": 1056,
+        "name": "Little Ripper",
+        "coordinates": [25.991552, 56.1793181],
+        "country": "Dubai",
+        "details": {
+            "total": "3182",
+            "notes": "2:30 hour hike",
+            "access": "",
+            "anchor": "",
+            "cliffAspect": "",
+            "rockdrop": ""
+        },
+        "openedBy": {
+            "name": "",
+            "date": ""
+        }
+    },
+    {
+        "id": 1057,
+        "name": "Citadel 1 (RKV)",
+        "coordinates": [25.801168, 56.1121519],
+        "country": "Dubai",
+        "details": {
+            "total": "1411",
+            "notes": "",
+            "access": "2hrs 30 minute hike",
+            "anchor": "",
+            "cliffAspect": "",
+            "rockdrop": ""
+        },
+        "openedBy": {
+            "name": "",
+            "date": ""
+        }
+    },
+    {
+        "id": 1058,
+        "name": "Katritch",
+        "coordinates": [25.9947211, 56.1756619],
+        "country": "Dubai",
+        "details": {
+            "total": "",
+            "notes": "45 minutes past Ripper",
+            "access": "",
+            "anchor": "",
+            "cliffAspect": "",
+            "rockdrop": ""
+        },
+        "openedBy": {
+            "name": "Yuri",
+            "date": ""
+        }
+    },
+    {
+        "id": 1059,
+        "name": "Monkey See Monkey Do",
+        "coordinates": [26.0657851, 56.1522509],
+        "country": "Dubai",
+        "details": {
+            "total": "",
+            "notes": "",
+            "access": "",
+            "anchor": "",
+            "cliffAspect": "",
+            "rockdrop": ""
+        },
+        "openedBy": {
+            "name": "Yuri",
+            "date": ""
+        }
+    },
+    {
+        "id": 1060,
+        "name": "Chicken",
+        "coordinates": [25.9761331, 56.1889271],
+        "country": "Dubai",
+        "details": {
+            "total": "",
+            "notes": "",
+            "access": "",
+            "anchor": "",
+            "cliffAspect": "",
+            "rockdrop": ""
+        },
+        "openedBy": {
+            "name": "Yuri",
+            "date": ""
+        }
+    },
+    {
+        "id": 1061,
+        "name": "Pushpop",
+        "coordinates": [26.0252591, 56.1722431],
+        "country": "Dubai",
+        "details": {
+            "total": "",
+            "notes": "",
+            "access": "",
+            "anchor": "",
+            "cliffAspect": "",
+            "rockdrop": ""
+        },
+        "openedBy": {
+            "name": "Yuri",
+            "date": ""
+        }
+    },
+    {
+        "id": 1062,
+        "name": "Heavens",
+        "coordinates": [25.984614, 56.1882391],
+        "country": "Dubai",
+        "details": {
+            "total": "",
+            "notes": "",
+            "access": "",
+            "anchor": "",
+            "cliffAspect": "",
+            "rockdrop": ""
+        },
+        "openedBy": {
+            "name": "Yuri",
+            "date": ""
+        }
+    },
+    {
+        "id": 1063,
+        "name": "Middle Earth",
+        "coordinates": [25.97147, 56.18494],
+        "country": "Dubai",
+        "details": {
+            "total": "",
+            "notes": "",
+            "access": "",
+            "anchor": "",
+            "cliffAspect": "",
+            "rockdrop": ""
+        },
+        "openedBy": {
+            "name": "Yuri",
+            "date": ""
+        }
+    }
     ]
   }

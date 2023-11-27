@@ -21330,6 +21330,101 @@
                     "https://firebasestorage.googleapis.com/v0/b/uk-base-map.appspot.com/o/submissions%2FScreenshot_20230712_063237_WhatsApp.jpg?alt=media&token=3aa4b164-2459-427f-b9fc-4fe8855facbe"
                 ]
             }
+        },
+        {
+            "id": 1068,
+            "name": "Ruby",
+            "coordinates": [36.396109, -84.557286],
+            "country": "United States",
+            "state": "",
+            "details": {
+                "total": "265",
+                "notes": "Bridge",
+                "access": "",
+                "anchor": "",
+                "cliffAspect": "",
+                "rockdrop": "265"
+            },
+            "openedBy": {
+                "name": "",
+                "date": ""
+            }
+        },
+        {
+            "id": 1069,
+            "name": "Gruby",
+            "coordinates": [36.352057, -84.727611],
+            "country": "United States",
+            "state": "",
+            "details": {
+                "total": "175",
+                "notes": "Bridge",
+                "access": "",
+                "anchor": "",
+                "cliffAspect": "",
+                "rockdrop": "175"
+            },
+            "openedBy": {
+                "name": "",
+                "date": ""
+            }
+        },
+        {
+            "id": 1070,
+            "name": "Crabby",
+            "coordinates": [35.910251, -84.869832],
+            "country": "United States",
+            "state": "",
+            "details": {
+                "total": "265",
+                "notes": "Earth",
+                "access": "",
+                "anchor": "",
+                "cliffAspect": "",
+                "rockdrop": "265"
+            },
+            "openedBy": {
+                "name": "",
+                "date": ""
+            }
+        },
+        {
+            "id": 1071,
+            "name": "Dino",
+            "coordinates": [36.089857, -86.672819],
+            "country": "United States",
+            "state": "",
+            "details": {
+                "total": "",
+                "notes": "Earth",
+                "access": "",
+                "anchor": "",
+                "cliffAspect": "",
+                "rockdrop": "300"
+            },
+            "openedBy": {
+                "name": "",
+                "date": ""
+            }
+        },
+        {
+            "id": 1072,
+            "name": "Natty",
+            "coordinates": [35.986756, -86.991610],
+            "country": "United States",
+            "state": "",
+            "details": {
+                "total": "",
+                "notes": "Earth",
+                "access": "",
+                "anchor": "",
+                "cliffAspect": "",
+                "rockdrop": "145"
+            },
+            "openedBy": {
+                "name": "",
+                "date": ""
+            }
         }
     ]
   }

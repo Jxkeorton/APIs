@@ -21425,6 +21425,55 @@
                 "name": "",
                 "date": ""
             }
+        },
+        {
+            "id": 1073,
+            "name": "Frogger",
+            "coordinates": [37.6270620, -112.9315939],
+            "country": "United States",
+            "state": "",
+            "details": {
+                "total": "500",
+                "notes": "",
+                "access": "45 min hike, scramble down a steep approach with a fixed line",
+                "anchor": "rope",
+                "cliffAspect": "",
+                "rockdrop": "150"
+            },
+            "openedBy": {
+                "name": "Zach H and Kyle F",
+                "date": "August 16, 2022"
+            },
+            "media": {
+                "videoLink": "",
+                "images": [
+                    "https://firebasestorage.googleapis.com/v0/b/uk-base-map.appspot.com/o/submissions%2F1701044812960.jpg?alt=media&token=b55ceb8d-f9f3-4c8b-8d42-be5c297ec504"
+                ]
+            }
+        },
+        {
+            "id": 1074,
+            "name": "Apollo 11",
+            "coordinates": [-22.729641, 15.015889],
+            "country": "United States",
+            "state": "",
+            "details": {
+                "total": "",
+                "notes": "canopy flight hight 120m high",
+                "access": "need 4x4 to get into area",
+                "anchor": "rope placed for static line",
+                "cliffAspect": "",
+                "rockdrop": "223"
+            },
+            "openedBy": {
+                "name": "Sheldon",
+                "date": "27/09/2023"
+            },
+            "media": {
+                "videoLink": "",
+                "images": [
+                ]
+            }
         }
     ]
   }

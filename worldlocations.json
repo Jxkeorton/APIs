@@ -21509,6 +21509,31 @@
                 "images": [
                 ]
             }
+        },
+        {
+            "id": 1075,
+            "name": "Torrey Pines",
+            "coordinates": [32.8841260, -117.2524409],
+            "country": "United States",
+            "state": "California",
+            "details": {
+                "total": "140",
+                "notes": "",
+                "access": "",
+                "anchor": "",
+                "cliffAspect": "",
+                "rockdrop": "114"
+            },
+            "openedBy": {
+                "name": "",
+                "date": ""
+            },
+            "media": {
+                "videoLink": "",
+                "images": [
+                    "https://firebasestorage.googleapis.com/v0/b/uk-base-map.appspot.com/o/submissions%2F1703168288634.jpg?alt=media&token=d78f9be1-7675-4839-ad6c-79016e69c674"
+                ]
+            }
         }
     ]
   }

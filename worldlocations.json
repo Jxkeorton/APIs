@@ -21534,6 +21534,31 @@
                     "https://firebasestorage.googleapis.com/v0/b/uk-base-map.appspot.com/o/submissions%2F1703168288634.jpg?alt=media&token=d78f9be1-7675-4839-ad6c-79016e69c674"
                 ]
             }
+        },
+        {
+            "id": 1076,
+            "name": "Darijan’s Bridge",
+            "coordinates": [45.120748, 13.800635],
+            "country": "Croatia",
+            "state": "",
+            "details": {
+                "total": "393",
+                "notes": "",
+                "access": "",
+                "anchor": "",
+                "cliffAspect": "",
+                "rockdrop": "393"
+            },
+            "openedBy": {
+                "name": "",
+                "date": ""
+            },
+            "media": {
+                "videoLink": "",
+                "images": [
+                    "https://firebasestorage.googleapis.com/v0/b/uk-base-map.appspot.com/o/submissions%2F1718367032203.jpg?alt=media&token=eac7645c-7d22-4064-9749-ddef005002d9"
+                ]
+            }
         }
     ]
   }

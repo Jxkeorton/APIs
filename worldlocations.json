@@ -21559,6 +21559,42 @@
                     "https://firebasestorage.googleapis.com/v0/b/uk-base-map.appspot.com/o/submissions%2F1718367032203.jpg?alt=media&token=eac7645c-7d22-4064-9749-ddef005002d9"
                 ]
             }
+        },
+        {
+            "id": 1077,
+            "name": "Pointe du Tuet",
+            "country": "France",
+            "coordinates": [46.1108606, 6.7632135],
+            "details": {
+              "rockdrop": "",
+              "total": "1000",
+              "notes": "Glide 2.5 but be careful it depends how early you turn on the left. 1000m flight, landing in a big field.",
+              "access": "Park the car at 'Les Allamands'. Take the trail from people going down from multipitch climbing. Some signs are visible on trees. Before the col, go to the left to hike down on ledge covered of grass. Just before the exit you have a small tree, where you can put the rope around if needed.",
+              "anchor": "Tree anchor available",
+              "cliffAspect": ""
+            },
+            "openedBy": {
+              "name": "",
+              "date": ""
+            }
+        },
+        {
+            "id": 2,
+            "name": "Bec de l'aigle near Vallouise Écrin",
+            "country": "France",
+            "coordinates": [44.850806, 6.539917],
+            "details": {
+              "rockdrop": "580",
+              "total": "",
+              "notes": "Around 2.5 glide ratio. Landing in a big field with cute grass. Be careful with the brise during the day. Otherwise it should be possible to jump from the ledge.",
+              "access": "Park the car at the via ferrata car park, take the trail to 'Croix de la Salcette' then keep going on the ridge to on the west side of Tenailles de Montbrison (Col). After that go to the left but not to the top, go around the first pic, the exit is on the second one. At the second one go down, exit at the end of the Bec, interesting to get on it.",
+              "anchor": "freefall",
+              "cliffAspect": ""
+            },
+            "openedBy": {
+              "name": "AUREL",
+              "date": "2012"
+            }
         }
     ]
   }
